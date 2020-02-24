@@ -15,6 +15,7 @@ namespace GitTrainingDemo
             //Update 2
             //Update from vs
             //update to test pull
+            //Update from feature vs local branch
         }
     }
 }
