@@ -10,8 +10,8 @@ namespace GitTrainingDemo
     {
         public int Add()
         {
-            int i = 10;
-            int j = 20;
+            var i = 10;
+            var j = 20;
             return i + j;
         }
     }
