@@ -10,7 +10,8 @@ namespace GitTrainingDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Avinash");
+            Console.WriteLine(" Hello Avinash");
+            //update from git hub
         }
     }
 }
